@@ -1,11 +1,11 @@
-About r-tframe
-==============
+About r-tframe-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tframe-feedstock/blob/main/LICENSE.txt)
 
 Home: http://tsanalysis.r-forge.r-project.org/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tframe-feedstock/blob/main/LICENSE.txt)
 
 Summary: A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time. Also provides plotting, time windowing, and some other utility functions which are specifically intended for time series. See the Guide distributed as a vignette, or ?tframe.Intro for more details. (User utilities are in package tfplot.)
 
